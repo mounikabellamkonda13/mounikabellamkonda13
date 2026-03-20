@@ -1,6 +1,6 @@
-## ✨ Hello and welcome to my GitHub!
----
-
+## ✨ Hey There,I'm so glad you're here!
+------
+Welcome to my GitHub!
 I’m **Mounika**, an aspiring **Data Analyst** who loves turning raw data into meaningful insights and clear dashboards.  
 This space is where I share my projects, learning journey, and the skills I’m building step by step.
 
@@ -17,7 +17,7 @@ Thanks for visiting my profile — I’m glad you’re here!
 Let’s connect,learn and grow together. 💙
 
 ## 🌐 Socials:
----
+------
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounika-bellamkondaa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mounikabellamkonda13)
@@ -25,7 +25,7 @@ Let’s connect,learn and grow together. 💙
 
 
 ## 💻 Tech Stack:
----
+-----
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
