@@ -3,9 +3,7 @@
 Welcome to my GitHub!
 
 I’m **Mounika**, an aspiring **Data Analyst** who loves turning raw data into meaningful insights and clear dashboards.  
-This space is where I share my projects, learning journey, and the skills I’m building step by step.
-
-Here, you’ll find:
+This space is where I share my projects, learning journey, and the skills I’m building step by step.Here, you’ll find:
 
 - 📊 Data analysis projects with real-world datasets  
 - 📈 Power BI and Tableau dashboards and visual reports  
