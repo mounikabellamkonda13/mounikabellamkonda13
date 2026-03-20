@@ -1,6 +1,7 @@
 ## ✨ Hey There,I'm so glad you're here!
 
 Welcome to my GitHub!
+
 I’m **Mounika**, an aspiring **Data Analyst** who loves turning raw data into meaningful insights and clear dashboards.  
 This space is where I share my projects, learning journey, and the skills I’m building step by step.
 
